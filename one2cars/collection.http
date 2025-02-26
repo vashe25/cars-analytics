@@ -1,0 +1,5 @@
+### GET indexes
+GET https://www.one2car.com/ajax/facets?vehicle_type=car&state=&area=&type=&state_areas=&make=honda&model_group=&profile_type=&min_price=&max_price=&keyword=
+x-requested-with: XMLHttpRequest
+
+###

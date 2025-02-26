@@ -1,0 +1,10 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "php": "^8.4",
+        "symfony/dom-crawler": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {"\\": "./"}
+    }
+}
